@@ -1,0 +1,4 @@
+venv
+/server
+/server/.env
+/frontend
